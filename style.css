@@ -1,3 +1,39 @@
 * {
     font-family: 'Times New Roman', Times, serif
 }
+
+.home {
+    background-color: whitesmoke;
+    width: 500px;
+    border: 10px double rebeccapurple;
+    display: block;
+    margin: 16px auto;
+}
+
+.home .title {
+    background-color: purple;
+    color: orange;
+    text-align: center;
+    margin: 16px 0px;
+    height: fit-content;
+}
+
+.home .chef {
+    display: block;
+    padding: 5px;
+    border: 2px dashed rebeccapurple;
+    margin: 16px auto;
+}
+
+.home .subtext {
+    text-align: center;
+}
+
+.hyperlink:hover {
+    background-color: orange;
+}
+
+.home li {
+    font-size: 32px;
+    margin: 20px auto;
+}
