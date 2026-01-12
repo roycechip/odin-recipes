@@ -37,3 +37,11 @@
     font-size: 32px;
     margin: 20px auto;
 }
+
+.container {
+    display: block;
+    border: 2px solid rebeccapurple;
+    width: auto;
+    padding: 16px;
+    margin: 16px;
+}
